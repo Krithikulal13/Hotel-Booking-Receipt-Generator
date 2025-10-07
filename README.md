@@ -27,5 +27,10 @@ A simple and interactive **HTML, CSS, and JavaScript** web application that gene
 
 ![output image](https://github.com/Krithikulal13/Hotel-Booking-Receipt-Generator/blob/main/output%20image.png)
 
+---
+
+## Watch Demo
+[Click here to watch the live demo](https://github.com/Krithikulal13/Hotel-Booking-Receipt-Generator/blob/main/Output.mp4)
+
 
 
