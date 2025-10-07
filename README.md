@@ -18,7 +18,14 @@ A simple and interactive **HTML, CSS, and JavaScript** web application that gene
 - 🖥️ HTML5 - Indicates the project uses HTML5 for structure and content. 
 - 🎨 CSS3 - Indicates the project uses CSS3 for styling and layout.
 - 📜 JavaScript - JavaScript for form handling and calculations.
-- 📄 PDF generation via html2pdf.js  
+- 📄 PDF generation via html2pdf.js
+
+---
+
+
+## 🖼️ Preview
+
+![output image](https://github.com/Krithikulal13/Hotel-Booking-Receipt-Generator/blob/main/output%20image.png)
 
 
 
