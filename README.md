@@ -3,7 +3,6 @@
 A simple and interactive **HTML, CSS, and JavaScript** web application that generates a hotel booking receipt and allows users to download it as a PDF. Users can enter guest details, booking ID, check-in and check-out dates, and room type. The app calculates the total cost based on room type and stay duration and produces a well-formatted receipt.
 
 ---
-
 ## ✨ Features
 
 - 📝 User-friendly form to enter booking information  
