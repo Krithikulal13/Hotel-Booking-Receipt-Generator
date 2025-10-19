@@ -20,8 +20,6 @@ A simple and interactive **HTML, CSS, and JavaScript** web application that gene
 - 📄 PDF generation via html2pdf.js
 
 ---
-
-
 ## 🖼️ Preview
 
 ![output image](https://github.com/Krithikulal13/Hotel-Booking-Receipt-Generator/blob/main/output%20image.png)
