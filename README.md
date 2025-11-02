@@ -10,7 +10,6 @@ A simple and interactive **HTML, CSS, and JavaScript** web application that gene
 - 📄 Styled receipt displaying hotel, guest, and booking details  
 - 📥 PDF generation using html2pdf.js for easy download  
 - 📱 Responsive and modern UI design with clear sections and tables  
-
 ---
 ## 🛠️ Technologies Used
 
