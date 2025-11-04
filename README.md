@@ -4,7 +4,6 @@ A simple and interactive **HTML, CSS, and JavaScript** web application that gene
 
 ---
 ## ✨ Features
-
 - 📝 User-friendly form to enter booking information  
 - 💰 Dynamic calculation of total cost based on stay duration and room type  
 - 📄 Styled receipt displaying hotel, guest, and booking details  
